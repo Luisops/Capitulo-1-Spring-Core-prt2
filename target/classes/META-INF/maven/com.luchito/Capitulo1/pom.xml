@@ -1,0 +1,15 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.luchito</groupId>
+  <artifactId>Capitulo1</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <name>Capitulo1</name>
+  <description>Proyecto Spring Maven, crear el primer Bean Configurarlo tanto como XML o por Anotaciones</description>
+	<dependencies>
+		<dependency>
+			<groupId>org.springframework</groupId>
+			<artifactId>spring-context</artifactId>
+			<version>5.3.8</version>
+		</dependency>
+	</dependencies>
+</project>

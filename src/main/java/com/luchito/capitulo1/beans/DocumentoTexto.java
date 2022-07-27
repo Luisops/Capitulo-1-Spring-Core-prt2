@@ -15,7 +15,8 @@ public class DocumentoTexto implements Imprimible{
 	
 	@Override
 	public String imprimir() {
-		// TODO Auto-generated method stub
+		String abc = null;
+		abc.getBytes();
 		return "Imprimiendo desde un archivo de texto";
 	}
 
